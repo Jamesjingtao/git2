@@ -4,4 +4,6 @@ add version 2 again and again.
 4444444
 55555555
 6666
-devmaster
+<<<<<<< HEAD
+devmaster&dev3
+>>>>>>> dev3
