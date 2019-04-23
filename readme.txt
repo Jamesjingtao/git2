@@ -5,5 +5,10 @@ add version 2 again and again.
 55555555
 6666
 <<<<<<< HEAD
+<<<<<<< HEAD
 devmaster&dev3
+>>>>>>> dev3
+=======
+dev3
+dev32
 >>>>>>> dev3
